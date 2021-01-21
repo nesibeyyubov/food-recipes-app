@@ -1,6 +1,6 @@
 :star: A food recipes app.
 
-:exclamation: You can download apk file from <a href="http://www.mediafire.com/file/q3pm6nbxlz16lqp/app-debug.apk/file">here</a>
+:exclamation: You can download apk file from <a href="https://www.mediafire.com/file/6xcvb97ihgqw16s/food-recipes.apk/file">here</a>
 
 <h3>:fire: Technologies i used</h3>
 <ul>
